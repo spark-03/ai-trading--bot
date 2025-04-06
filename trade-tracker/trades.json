@@ -1,0 +1,20 @@
+{
+  "trades": [
+    {
+      "id": "1",
+      "symbol": "RELIANCE",
+      "buyPrice": 2500,
+      "sellPrice": 2520,
+      "profitLoss": 20,
+      "time": "2024-03-02T10:00:00"
+    },
+    {
+      "id": "1740862107.220996",
+      "symbol": "RELIANCE",
+      "buyPrice": 1190.1,
+      "sellPrice": 1200.1,
+      "profitLoss": 10,
+      "time": "2025-03-02T02:18:27.220996"
+    }
+  ]
+}
