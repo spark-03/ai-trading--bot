@@ -1,0 +1,9 @@
+services:
+  - type: worker
+    name: paper-trader-scheduler
+    env: python
+    repo: https://github.com/spark-03/ai-trading--bot
+    branch: main
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python schedule_runner.py
