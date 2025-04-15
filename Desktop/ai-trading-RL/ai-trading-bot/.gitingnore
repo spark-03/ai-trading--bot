@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore Python virtual environment
+venv/
+
+# Other useful ignores
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.db
+*.csv
+.vscode/
+.DS_Store
+config.py
+*.parquet
